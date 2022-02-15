@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 81bcd7a6-98e8-f7a0-6ae7-c74acf3be1e0
 ---
@@ -56,7 +59,7 @@ Introduction to the course, key assignments. Quick design exercise
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 What is a game? What is play?
 {{< tdclose >}}
 {{< tdopen >}}
@@ -101,7 +104,7 @@ Salen & Zimmerman. pp. 9-13 and 728-753.
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Player and character
 {{< tdclose >}}
 {{< tdopen >}}

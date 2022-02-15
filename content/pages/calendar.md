@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e574b828-54c9-ab0d-3ef4-9eb6e0b3df72
 ---
@@ -42,7 +44,7 @@ Introduction to the course, key assignments. Quick design exercise
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 What is a game? What is play?
 {{< tdclose >}}
 {{< tdopen >}}
@@ -99,7 +101,7 @@ Salen & Zimmerman. pp. 9-13 and 728-753.
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Player and character
 {{< tdclose >}}
 {{< tdopen >}}
