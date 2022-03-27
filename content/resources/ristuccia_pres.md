@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 27422620-efa8-2dce-c8e8-c59eb7767e9b
 resourcetype: Document
 title: ristuccia_pres.pdf
 uid: e3905ddb-1a42-caab-8d89-7d841ab01404

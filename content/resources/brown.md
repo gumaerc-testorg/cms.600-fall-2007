@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 27422620-efa8-2dce-c8e8-c59eb7767e9b
 resourcetype: Document
 title: brown.pdf
 uid: 52e99c45-29fe-ca17-af07-bf8e0d8ec54e

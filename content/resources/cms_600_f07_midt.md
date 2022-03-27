@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f2ee3d56-405e-65a1-cb08-e63056ed6ca3
 resourcetype: Document
 title: cms_600_f07_midt.pdf
 uid: d3f1d306-faf9-c22c-6ba8-1a416d74ffed

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 27422620-efa8-2dce-c8e8-c59eb7767e9b
 resourcetype: Document
 title: sperry_pres.pdf
 uid: 96d2af54-d739-f218-8b45-e694bd96f344

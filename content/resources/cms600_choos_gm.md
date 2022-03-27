@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 27422620-efa8-2dce-c8e8-c59eb7767e9b
 resourcetype: Document
 title: cms600_choos_gm.pdf
 uid: d7c7b189-be1f-4f2c-f86d-df0d289bb22c

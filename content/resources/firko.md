@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 27422620-efa8-2dce-c8e8-c59eb7767e9b
 resourcetype: Document
 title: firko.pdf
 uid: 98bdde78-745c-04cc-3600-c8561d5fd781

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 27422620-efa8-2dce-c8e8-c59eb7767e9b
 resourcetype: Document
 title: cms600_vgm_ansis.pdf
 uid: b3b91cfa-5264-035d-fdc4-cfaafaca4e03
