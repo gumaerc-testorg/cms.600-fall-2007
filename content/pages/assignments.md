@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: f2ee3d56-405e-65a1-cb08-e63056ed6ca3
 ---
@@ -75,7 +76,7 @@ This analysis assignment is meant to give you practice and experience with prese
 
 **Presentations will be evaluated based primarily on your ability to directly connect your game to the themes and ideas of the course.**
 
-Midterm ([PDF]({{< baseurl >}}/resources/cms_600_f07_midt))
+Midterm ({{< resource_link d3f1d306-faf9-c22c-6ba8-1a416d74ffed "PDF" >}})
 -----------------------------------------------------------
 
-For examples of student work for the three major assignments, please see the [Projects]({{< baseurl >}}/pages/projects) page.
+For examples of student work for the three major assignments, please see the {{< resource_link 27422620-efa8-2dce-c8e8-c59eb7767e9b "Projects" >}} page.

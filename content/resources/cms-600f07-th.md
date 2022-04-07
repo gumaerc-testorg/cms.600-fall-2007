@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Photo of three students working on a handheld videogame.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: cms-600f07-th.jpg
 uid: d800e8df-b34c-4498-ca80-0270668eb2e1
