@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for selecting a game to analyze for the first assignment.
-file: /media/courses/cms-600-videogame-theory-and-analysis-fall-2007/d7c7b189be1f4f2cf86ddf0d289bb22c_cms600_choos_gm.pdf
+file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/d7c7b189be1f4f2cf86ddf0d289bb22c_cms600_choos_gm.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: cms600_choos_gm.pdf
 uid: d7c7b189-be1f-4f2c-f86d-df0d289bb22c
 ---
+Guidelines for selecting a game to analyze for the first assignment.
+
