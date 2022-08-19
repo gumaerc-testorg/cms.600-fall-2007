@@ -5,6 +5,7 @@ file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/b3e373412bd070a5b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: syverud_pres.pdf
 uid: b3e37341-2bd0-70a5-bbc9-97e1511c8203
 ---
 Example of student work: "Half-Life" by Brian Syverud.
-

@@ -6,6 +6,7 @@ file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/2775927273696f4ca
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: zhu.pdf
 uid: 27759272-7369-6f4c-a4be-1cbd9628e932
 ---
 Example of student work: "The Sims 2 & MySims: Bigger (Worlds), Better (Options), Cuter (Sims)" by Sisi Zhu.
-

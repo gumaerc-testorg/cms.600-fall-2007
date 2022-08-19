@@ -5,6 +5,7 @@ file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/d7c7b189be1f4f2cf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cms600_choos_gm.pdf
 uid: d7c7b189-be1f-4f2c-f86d-df0d289bb22c
 ---
 Guidelines for selecting a game to analyze for the first assignment.
-

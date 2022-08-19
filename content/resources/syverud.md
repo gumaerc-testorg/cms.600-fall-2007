@@ -5,6 +5,7 @@ file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/6c360b62907a0fda8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: syverud.pdf
 uid: 6c360b62-907a-0fda-88a4-2669e2e617ec
 ---
 Example of student work: "Game Choice" by Brian Syverud.
-

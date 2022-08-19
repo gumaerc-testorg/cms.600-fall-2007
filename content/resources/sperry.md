@@ -5,6 +5,7 @@ file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/c951e6292faaf671b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sperry.pdf
 uid: c951e629-2faa-f671-b03c-aaa63da3531b
 ---
 Example of student work: "Choosing a Game" by Sarah Sperry.
-

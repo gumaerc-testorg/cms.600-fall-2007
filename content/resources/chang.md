@@ -5,6 +5,7 @@ file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/a4f698b913489ce3f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chang.pdf
 uid: a4f698b9-1348-9ce3-feb0-017a54444ba5
 ---
 Example of student work: "Choosing a Game" by Benjamin Chang.
-

@@ -5,6 +5,7 @@ file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/96d2af54d739f2188
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sperry_pres.pdf
 uid: 96d2af54-d739-f218-8b45-e694bd96f344
 ---
 This resource contains the information about new game in this course.
-

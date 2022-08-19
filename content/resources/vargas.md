@@ -6,6 +6,7 @@ file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/8856a61264f44662c
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: vargas.pdf
 uid: 8856a612-64f4-4662-cf1c-5dac4867ae0e
 ---
 Example of student work: "F.E.A.R., Bioshock, and Resident Evil I" by Gregory Vargas.
-
