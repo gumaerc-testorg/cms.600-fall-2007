@@ -1,9 +1,11 @@
 ---
 content_type: page
+description: This section provides information on assignments for the course, including
+  a quick design project for the first day of class, weekly writings, videogame analysis,
+  and the midterm exam.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: f2ee3d56-405e-65a1-cb08-e63056ed6ca3
 ---
@@ -19,7 +21,7 @@ In groups, design a game and story (rules and narrative) using the words you hav
 
 You will have 10 minutes to create your game, and then you'll pitch it to the class.
 
-Weekly Writings ([examples]({{< baseurl >}}/pages/projects#weekly))
+Weekly Writings ({{% resource_link 27422620-efa8-2dce-c8e8-c59eb7767e9b "examples" "#weekly" %}})
 -------------------------------------------------------------------
 
 (Adapted from Prof. Charles L. Cohen, UW-Madison History Dept., "[The Fifty-Word Assignment.](https://dept.writing.wisc.edu/wac/the-50-word-assignment/)")
@@ -38,7 +40,7 @@ Writing assignments must be submitted no later than 11:59 pm the night before a 
 
 Weekly writings will be assessed by the class and the instructor. Each week, we'll choose a "winner," whose prize will be a free pass in a future week. All other writing will be evaluated based on their accuracy and clarity. Because work will be submitted publicly, students are required to read each other's work for help and guidance primarily, but also to help determine that week's winner!
 
-Choosing a Game ([examples]({{< baseurl >}}/pages/projects#games))
+Choosing a Game ({{% resource_link 27422620-efa8-2dce-c8e8-c59eb7767e9b "examples" "#games" %}})
 ------------------------------------------------------------------
 
 For your first assignment, I would like you to choose the game you will play this semester. It can be a PC or console game, but it must be a contemporary commercial videogame, the kind you could buy at a game store today.
@@ -56,7 +58,7 @@ For your research, you are required to consult the following sources. At minimum
 *   **One** print source
 *   **One** "other" ← your choice
 
-Videogame Analysis ([examples]({{< baseurl >}}/pages/projects#games))
+Videogame Analysis ({{% resource_link 27422620-efa8-2dce-c8e8-c59eb7767e9b "examples" "#games" %}})
 ---------------------------------------------------------------------
 
 Each week on Wednesdays, two students will present analyses of their games to the rest of the class. These presentations should meet and often exceed the expectations laid out below. Undergraduate students will be expected to complete this assignment once throughout the semester; graduate students will present twice.
@@ -76,7 +78,7 @@ This analysis assignment is meant to give you practice and experience with prese
 
 **Presentations will be evaluated based primarily on your ability to directly connect your game to the themes and ideas of the course.**
 
-Midterm ({{< resource_link d3f1d306-faf9-c22c-6ba8-1a416d74ffed "PDF" >}})
+Midterm ({{% resource_link d3f1d306-faf9-c22c-6ba8-1a416d74ffed "PDF" %}})
 -----------------------------------------------------------
 
-For examples of student work for the three major assignments, please see the {{< resource_link 27422620-efa8-2dce-c8e8-c59eb7767e9b "Projects" >}} page.
+For examples of student work for the three major assignments, please see the {{% resource_link 27422620-efa8-2dce-c8e8-c59eb7767e9b "Projects" %}} page.
