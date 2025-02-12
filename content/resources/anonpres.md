@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/b58a06ba3674796d8bca303d2dfd2f4d_anonpres.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/b58a06ba3674796d8bca303d2dfd2f4d_anonpres.pdf
+file_size: 159542
 file_type: application/pdf
 learning_resource_types:
 - Projects

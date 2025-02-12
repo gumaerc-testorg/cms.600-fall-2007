@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Example of student work: "Half-Life" by Brian Syverud.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/b3e373412bd070a5bbc997e1511c8203_syverud_pres.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/b3e373412bd070a5bbc997e1511c8203_syverud_pres.pdf
+file_size: 145847
 file_type: application/pdf
 learning_resource_types:
 - Projects

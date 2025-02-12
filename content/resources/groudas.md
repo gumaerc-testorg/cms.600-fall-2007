@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Example of student work: "Game Decision" by Paul Groudas.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/7951768044e3033545220ba68de9e914_groudas.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/7951768044e3033545220ba68de9e914_groudas.pdf
+file_size: 310861
 file_type: application/pdf
 learning_resource_types:
 - Projects

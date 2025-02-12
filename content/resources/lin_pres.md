@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work: "Wii Sports & Guitar Hero III: Video Games
   as Simulation, Story, and Sport" by George Lin.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/231d08d8d3961626fdfa5992785ee769_lin_pres.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/231d08d8d3961626fdfa5992785ee769_lin_pres.pdf
+file_size: 76830
 file_type: application/pdf
 learning_resource_types:
 - Projects

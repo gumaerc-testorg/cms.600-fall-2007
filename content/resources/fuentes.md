@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the information about MMO gamer in this course.
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/378987fb339d223cb6b5d523fe6ea475_fuentes.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/378987fb339d223cb6b5d523fe6ea475_fuentes.pdf
+file_size: 78648
 file_type: application/pdf
 learning_resource_types:
 - Projects

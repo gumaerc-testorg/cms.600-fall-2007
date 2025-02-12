@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work: "Learning A Whole New World: From Design Spaces
   to Agency" by Ben Kravit.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/0faa0c4de7b602132daf30218f16dd71_kravit_pres.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/0faa0c4de7b602132daf30218f16dd71_kravit_pres.pdf
+file_size: 97624
 file_type: application/pdf
 learning_resource_types:
 - Projects

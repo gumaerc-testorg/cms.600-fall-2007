@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work: "Choosing A Video Game Assignment" by Karena
   Tyan.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/f97f41bb16f0f1be863faeef79f57415_tyan.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/f97f41bb16f0f1be863faeef79f57415_tyan.pdf
+file_size: 28240
 file_type: application/pdf
 learning_resource_types:
 - Projects

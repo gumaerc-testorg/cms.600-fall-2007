@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Example of student work: "Categorizing RTS Games" by John Lee.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/4136554e4b84a670590c16377eb704ad_lee.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/4136554e4b84a670590c16377eb704ad_lee.pdf
+file_size: 58684
 file_type: application/pdf
 learning_resource_types:
 - Projects

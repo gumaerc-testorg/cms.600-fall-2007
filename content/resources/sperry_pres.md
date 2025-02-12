@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains the information about new game in this course.
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/96d2af54d739f2188b45e694bd96f344_sperry_pres.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/96d2af54d739f2188b45e694bd96f344_sperry_pres.pdf
+file_size: 1897527
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/d800e8dfb34c4498ca800270668eb2e1_cms-600f07-th.jpg
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/d800e8dfb34c4498ca800270668eb2e1_cms-600f07-th.jpg
+file_size: 14640
 file_type: image/jpeg
 image_metadata:
   caption: Class TA Kristina Drzaic (center) and students Kenny Peng (left) and Clara

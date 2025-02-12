@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work: "Kingdom Hearts I vs. Kingdom Hearts II" by
   Karena Tyan.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/c1f8670725c82e2490cd1a43874b2282_tyan_pres.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/c1f8670725c82e2490cd1a43874b2282_tyan_pres.pdf
+file_size: 273406
 file_type: application/pdf
 learning_resource_types:
 - Projects

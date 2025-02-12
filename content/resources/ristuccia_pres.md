@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Example of student work: "Syphon Filter" by Nick Ristuccia.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/e3905ddb1a42caab8d897d841ab01404_ristuccia_pres.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/e3905ddb1a42caab8d897d841ab01404_ristuccia_pres.pdf
+file_size: 133990
 file_type: application/pdf
 learning_resource_types:
 - Projects

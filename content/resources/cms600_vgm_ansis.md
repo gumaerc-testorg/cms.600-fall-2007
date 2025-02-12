@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Videogame analysis assignment.
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/b3b91cfa5264035dfdc4cfaafaca4e03_cms600_vgm_ansis.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/b3b91cfa5264035dfdc4cfaafaca4e03_cms600_vgm_ansis.pdf
+file_size: 75988
 file_type: application/pdf
 learning_resource_types:
 - Projects

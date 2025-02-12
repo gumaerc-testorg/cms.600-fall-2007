@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work: "Video Game Choice: Knights of the Old Republic"
   by Megan Firko.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/98bdde78745c04cc3600c8561d5fd781_firko.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/98bdde78745c04cc3600c8561d5fd781_firko.pdf
+file_size: 34242
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Example of student work: "Choosing a Video Game" by Adalberto Garza.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/6b8b5a191c837d077ea01cd2c5ca480b_garza.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/6b8b5a191c837d077ea01cd2c5ca480b_garza.pdf
+file_size: 45431
 file_type: application/pdf
 learning_resource_types:
 - Projects

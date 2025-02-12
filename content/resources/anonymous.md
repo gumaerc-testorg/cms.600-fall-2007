@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work: "Game Choice: Disgaea 2 and Wrath: Unleashed"
   by Anonymous.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/1b96b11615b63e9e32cbc2c177b882ea_anonymous.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/1b96b11615b63e9e32cbc2c177b882ea_anonymous.pdf
+file_size: 30973
 file_type: application/pdf
 learning_resource_types:
 - Projects

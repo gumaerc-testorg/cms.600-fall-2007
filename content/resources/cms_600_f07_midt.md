@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Midterm exam on videogame theory and analysis.
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/d3f1d306faf9c22c6ba81a416d74ffed_cms_600_f07_midt.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/d3f1d306faf9c22c6ba81a416d74ffed_cms_600_f07_midt.pdf
+file_size: 63538
 file_type: application/pdf
 learning_resource_types:
 - Assignments

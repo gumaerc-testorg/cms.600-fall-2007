@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Example of student work: "World of Warcraft" by John Rogosic.'
-file: /courses/cms-600-videogame-theory-and-analysis-fall-2007/fdb7c0fc6a2cfd8640014dbbc5e93482_rogosic.pdf
+file: /ol-ocw-studio-app/courses/cms-600-videogame-theory-and-analysis-fall-2007/fdb7c0fc6a2cfd8640014dbbc5e93482_rogosic.pdf
+file_size: 28351
 file_type: application/pdf
 learning_resource_types:
 - Projects
